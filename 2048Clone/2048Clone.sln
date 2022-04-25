@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2048Clone", "2048Clone\2048Clone.csproj", "{F77A7526-5DDC-49F0-A1FD-260FEEAC7301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F77A7526-5DDC-49F0-A1FD-260FEEAC7301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77A7526-5DDC-49F0-A1FD-260FEEAC7301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77A7526-5DDC-49F0-A1FD-260FEEAC7301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77A7526-5DDC-49F0-A1FD-260FEEAC7301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F9E0D8-30FB-418A-8D03-B8F2406FD972}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\repos\2048Clone\2048Clone\2048Clone\bin\Debug\2048Clone.exe.config
+D:\repos\2048Clone\2048Clone\2048Clone\bin\Debug\2048Clone.exe
+D:\repos\2048Clone\2048Clone\2048Clone\bin\Debug\2048Clone.pdb
+D:\repos\2048Clone\2048Clone\2048Clone\obj\Debug\2048Clone.csproj.AssemblyReference.cache
+D:\repos\2048Clone\2048Clone\2048Clone\obj\Debug\_2048Clone.Form1.resources
+D:\repos\2048Clone\2048Clone\2048Clone\obj\Debug\_2048Clone.Properties.Resources.resources
+D:\repos\2048Clone\2048Clone\2048Clone\obj\Debug\2048Clone.csproj.GenerateResource.cache
+D:\repos\2048Clone\2048Clone\2048Clone\obj\Debug\2048Clone.csproj.CoreCompileInputs.cache
+D:\repos\2048Clone\2048Clone\2048Clone\obj\Debug\2048Clone.exe
+D:\repos\2048Clone\2048Clone\2048Clone\obj\Debug\2048Clone.pdb
